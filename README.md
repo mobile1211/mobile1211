@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Mobile App Developer (iOS, Android)**
-- 
+
 <h4 align="left">Contact:</h4>
 
 - 📫 mail: gregorybuttars902@gmail.com
